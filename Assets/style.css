@@ -1,0 +1,41 @@
+/* bootstrap CSS Style Sheet*/
+@import Url("./bootstrap.css");/* using a URl*/
+ 
+    style>
+        body {
+            width: 600px;
+            height: auto;
+            margin: 0 auto;
+        }
+
+        body {
+            background-color: black;
+
+        }
+
+        h1 {
+            color: white;
+            text-align: center;
+
+        }
+
+        h2 {
+            color: red;
+            font-size: large;
+
+        }
+
+        h3 {
+            color: cornsilk;
+            font-size: larger;
+        }
+
+        p {
+            color: palevioletred;
+            font-size: medium;
+        }
+
+        .nav {
+            color: blue;
+            font-size: larger;
+        }
